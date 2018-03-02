@@ -10,5 +10,4 @@ ddd. local foolaround.
 由不得你。 我再试试git pull。
 
 make a conflict with git fetch/git log.
-git fetch, git 
-
+gone.
