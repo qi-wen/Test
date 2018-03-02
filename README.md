@@ -8,4 +8,5 @@ ddd. local foolaround.
 我不想改啊。。。。
 
 由不得你。 我再试试git pull。
+git fetch, git 
 
